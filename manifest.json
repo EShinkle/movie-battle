@@ -1,19 +1,19 @@
 {
-  "name": "Movie Battle",
-  "short_name": "Movie Battle",
-  "description": "Head-to-head movie voting — battle your watchlist and find your all-time favorites.",
-  "start_url": "./",
-  "scope": "./",
-  "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#0a0a0f",
-  "theme_color": "#0a0a0f",
-  "icons": [
-    {
-      "src": "icons/icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    }
-  ]
+	"name": "Movie Battle",
+	"short_name": "Movie Battle",
+	"description": "Head-to-head movie voting — battle your watchlist and find your all-time favorites.",
+	"start_url": "./",
+	"scope": "./",
+	"display": "standalone",
+	"orientation": "portrait",
+	"background_color": "#0a0a0f",
+	"theme_color": "#0a0a0f",
+	"icons": [
+		{
+			"src": "icons/icon.svg",
+			"sizes": "any",
+			"type": "image/svg+xml",
+			"purpose": "any"
+		}
+	]
 }
